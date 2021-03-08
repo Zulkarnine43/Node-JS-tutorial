@@ -1,0 +1,20 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "added external modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "js",
+    "mudules"
+  ],
+  "author": "Zulkar Nine",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.0"
+  }
+}
